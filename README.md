@@ -18,5 +18,5 @@ ORACLE, MYSQL
   ![bjmin17's github stats](https://github-readme-stats.vercel.app/api?username=bjmin17&show_icons=true&theme=tokyonight)
 </div>
 <div>
-  [![bjmin17's github stats](https://github-readme-stats.vercel.app/api?username=bjmin17)](https://github.com/anuraghazra/github-readme-stats)
+  [![bjmin17's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjmin17)](https://github.com/anuraghazra/github-readme-stats)
 </div>
