@@ -11,7 +11,7 @@ ORACLE, MYSQL
   <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=White"/>
   <img alt="JQUERY" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=White"/>
   <img alt="SPRING" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=White"/>
-  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-#4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=White"/>
+  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=White"/>
 </div>
 
   
