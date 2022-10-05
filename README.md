@@ -11,5 +11,4 @@ ORACLE, MYSQL
   <img alt="JQUERY" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=White"/>
   <img alt="SPRING" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=White"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjmin17)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjmin17)
