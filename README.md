@@ -12,8 +12,9 @@ ORACLE, MYSQL
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   
-</div>
+
 
 ![bjmin17's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjmin17&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjmin17&layout=compact)
+</div>
