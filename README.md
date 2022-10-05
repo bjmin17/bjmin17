@@ -12,11 +12,11 @@ ORACLE, MYSQL
   <img alt="SPRING" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=White"/>
 </div>
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjmin17)
+  ![bjmin17's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjmin17)
 </div>
 <div>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bjmin17&show_icons=true&theme=tokyonight)
+  ![bjmin17's github stats](https://github-readme-stats.vercel.app/api?username=bjmin17&show_icons=true&theme=tokyonight)
 </div>
 <div>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bjmin17)](https://github.com/anuraghazra/github-readme-stats)
+  [![bjmin17's github stats](https://github-readme-stats.vercel.app/api?username=bjmin17)](https://github.com/anuraghazra/github-readme-stats)
 </div>
